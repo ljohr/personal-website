@@ -57,6 +57,7 @@
   "directories": {
     "doc": "docs"
   },
+  "proxy": "http://localhost:5000",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
