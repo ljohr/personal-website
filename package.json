@@ -57,7 +57,6 @@
   "directories": {
     "doc": "docs"
   },
-  "proxy": "http://localhost:8800/api/",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
